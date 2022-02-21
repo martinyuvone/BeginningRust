@@ -1,0 +1,30 @@
+//Book: Beginning Rust - Get Started with Rust 2021 Edition
+
+Chapter 1: Getting Started
+	1_1 How to Start
+	1_2 Hello, World!
+	1_3 Printing Combinations of Literals Strings
+	1_4 Printing Several Lines of Text
+	1_5 Printing Integer Numbers
+	1_6 Comments
+
+Chapter 2: Doing Arithmetics and Writing More Code
+	2_1 Adding integer numbers
+	2_2 Other operation with integers
+	2_3 Floating-point Arithmetics 
+	2_4 Sequences of Statements
+	2_5 Breaking Literal Strings
+
+Chapter 3: Naming Objects
+	3_1 Associating names to vaues
+	3_2 Multiple Variables
+	3_3 Not Mutated Mutable Variables
+	3_4 Unitialize Variables
+	3_5 The leading underscore
+	3_6 Boolean values
+	3_7 Boolean Expressions
+	3_8 Type Consistency 
+	3_9 Type Inference
+	3_10 Change of type and of mutability
+	3_11 Compound assigment Operators
+	3_12 Using the functions of the standard library
