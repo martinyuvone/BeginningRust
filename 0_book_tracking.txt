@@ -23,7 +23,7 @@ Chapter 3: Naming Objects
 	3_5 The leading underscore
 	3_6 Boolean values
 	3_7 Boolean Expressions
-	3_8 Type Consistency 
+	3_8 Type Consistency < 
 	3_9 Type Inference
 	3_10 Change of type and of mutability
 	3_11 Compound assigment Operators
