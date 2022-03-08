@@ -28,3 +28,14 @@ Chapter 3: Naming Objects
 	3_10 Change of type and of mutability
 	3_11 Compound assigment Operators
 	3_12 Using the functions of the standard library
+
+Chapter 4: Controlling Execution Flow
+	4_1 Conditional Statements
+	4_2 Conditional Expressions
+	4_3 Conditional Loops
+	4_4 Infinite Loops
+	4_5 Counting Loops
+	4_6 Variable Scopes
+
+Chapter 5: Using Data Sequences
+	
