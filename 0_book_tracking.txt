@@ -38,4 +38,16 @@ Chapter 4: Controlling Execution Flow
 	4_6 Variable Scopes
 
 Chapter 5: Using Data Sequences
-	
+	5_1 Arrays
+	5_2 Rust Attributes
+	5_3 Paniking
+	5_4 Mutable Arrays
+	5_5 Arrays of Explicitly Specified Size
+	5_6 Multidimentional Arrays
+	5_7 Vectors
+	5_8 Vectors operations
+	5_9 Empty Arrays and Vectors
+	5_10 Debug Print
+	5_11 Copying Arrays and Vectors
+
+Chapter 06: Using Primitive Types	
