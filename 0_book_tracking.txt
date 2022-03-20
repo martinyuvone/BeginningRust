@@ -85,3 +85,42 @@ Chapter 08: Using Heterogeneous Data Structures
 	8_2  The Structs
 	8_3  The Tuple-Struct
 	8_4  Lexical Conventions
+
+Chapter 09: Defining functions
+	9_1 Defining and Invoking a Function
+	9_2 Functions Defined After Their Use
+	9_3 Functions Shadowing Other Functions
+	9_4 Passing Arguments to a Function
+	9_5 Passing Arguments by Value
+	9_6 Returning a Value from a Function
+	9_7 Early Exit
+	9_8 Returning Several Values
+	9_9 How to Change a Variable of the Caller
+	9_10 Passing Arguments by Reference
+	9_11 Using References
+	9_12 Mutability of References
+
+Chapter 10: Defining Generic Functions and Types
+	10_1 Need of Generic Functions
+	10_2 Defining and Using Generic Functions
+	10_3 Inferring the Parametric Types
+	10_4 Defining and Using Generic Structs
+	10_5 Genericity Mechanics
+	10_6 Generic Arrays and Vectors
+	10_7 Generic Enums
+	10_8 The Option<T> Standard Enum
+	10_9 The Result<T, E> Standard Enum
+	10_10 Enum Standard Utility Functions
+
+Chapter 11: Allocating Memory
+	11_1 The Various Kinds of Allocation
+	11_2
+	11_3
+	11_4
+	11_5
+	11_6
+	11_7
+	11_8
+	11_9
+	11_10
+	11_11 Register Allocation
